@@ -55,6 +55,7 @@ echo "<br>Kui esimene arv jagame teise arvuga, siis vastus on ".($num1/$num2);
     Leia ilusad värvi nimed siit: http://www.w3schools.com/colors/colors_names.asp<br>
     Kuva tsükliga välja värvuste nimed ja värvi need sama värvi nt. <br>
     &#60; span style='color: cyan' &#62; cyan - sinine taevas &#60; /span &#62;</p>
+<a href="harjutused/402/"> Ülesanne 402</a>
 
 
 
@@ -65,6 +66,7 @@ echo "<br>Kui esimene arv jagame teise arvuga, siis vastus on ".($num1/$num2);
     Korrutustabel peab olema HTML tabeli sees.<br>
     Korrutustabelis peab olema esimesel real ja veerul numbrid 1-10. <br>
     Teisel real esimese rea ja veeru korrustis jne.</p>
+<a href="harjutused/402/"> Ülesanne 402</a>
 <footer>
     <?php
     echo "Tänane kuupäev on: ".date("d.m.Y");
