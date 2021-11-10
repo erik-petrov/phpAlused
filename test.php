@@ -5,19 +5,6 @@
     <title>PHP Algus</title>
 </head>
 <body>
-<?php
-
-echo "<h1>Param pam pam</h1>";
-$text = "gae";
-echo $text;
-echo "<br><h2>Matemaatika tehed. Mõistatus</h2>";
-echo "<h3>Arva ära kaks arvu</h3>";
-$num1 = 5;
-$num2 = 8;
-//adding 2 nums
-echo "Kui liidame kokku, vastus on ".($num1+$num2);
-echo "<br>Kui esimene arv jagame teise arvuga, siis vastus on ".($num1/$num2);
-?>
 <h1>Veebiprogrameerimine PHP </h1>
 
 <a href="http://students.tmk.edu.ee/php/materjal/php_syntax.php#PHP%20s%C3%BCntaks/" target="_blank">PHP süntaks näidistega</a>
