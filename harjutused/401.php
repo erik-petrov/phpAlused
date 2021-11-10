@@ -1,4 +1,4 @@
-<a href="../test.php">--------------Tagasi--------------</a>
+<a href="../../test.php">--------------Tagasi--------------</a>
 <?php
 $data = array(
     "nimi" => "Erik Petrov",

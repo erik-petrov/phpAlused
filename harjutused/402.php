@@ -1,4 +1,11 @@
-<a href="../test.php">--------------Tagasi--------------</a>
+<a href="../../test.php">--------------Tagasi--------------</a>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ülesanne 402</title>
+</head>
+<body>
 <h1>Ülesanne 402</h1>
 <?php
 for($i = 0; $i<21; $i++){
@@ -14,3 +21,5 @@ for($i = 0; $i<21; $i++){
     echo "<label for='radio.$i'> radio $i</label>";
 }
 ?>
+</body>
+</html>

@@ -66,6 +66,8 @@ echo "<br>Kui esimene arv jagame teise arvuga, siis vastus on ".($num1/$num2);
     Korrutustabel peab olema HTML tabeli sees.<br>
     Korrutustabelis peab olema esimesel real ja veerul numbrid 1-10. <br>
     Teisel real esimese rea ja veeru korrustis jne.</p>
+<a href="harjutused/405.php/"> Ülesanne 405</a>
+
 
 <footer>
     <?php
